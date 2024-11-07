@@ -9,5 +9,6 @@ After some successful responses put Safari into background, wait couple of secon
 Request that is sent after Safari is put back to foreground might start pending and never finishes. 
 You might need perfect timing when the appswitch is done. Play around the appswitch and observe that request is stalling.
 
+![alt text](https://github.com/veke/veke.github.io/blob/main/pending.png)
 
-
+![alt text](https://github.com/veke/veke.github.io/blob/main/pending2.png)

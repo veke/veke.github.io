@@ -11,6 +11,6 @@ Wait response and put Safari on the background, wait 3 seconds, put Safari on fo
 Repeat if not happening.
 You might need perfect timing when the appswitch is done. Play around the appswitch and observe that request is stalling.
 
-![alt text](https://github.com/veke/veke.github.io/blob/main/pending1.png)
+![alt text](https://github.com/veke/veke.github.io/blob/main/pending3.png)
 
 ![alt text](https://github.com/veke/veke.github.io/blob/main/pending4.png)

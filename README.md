@@ -1,5 +1,5 @@
 # veke.github.io
-Test Safari HTTP2 request polling using XHR or fetch using iOS 18
+Test HTTP2 request polling using XHR or fetch using iOS 18 Safari
 
 Steps to reproduce the issue:
 
